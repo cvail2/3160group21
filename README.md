@@ -17,7 +17,7 @@ Members: Carter Gray, Connor Vail, Zachary Hamilton
 The purpose of this project is to design and create an application similar to that of GrubHub or Postmates specifically for campus use. The reason behind this is having random delivery drivers going on and off campus who often have no link to campus could be a security issue. This means that all drivers for this service will be previously vetted in order to maintain the prior rule. Doing food deliveries in this way will overall make campus safer for students, faculty and staff.
 
 # Use Case
-[Image of Use Case](https://github.com/cvail2/3160group21/blob/master/useCaseDeliver2-3160.png)
+![Image of Use Case](https://github.com/cvail2/3160group21/blob/master/useCaseDeliver2-3160.png)
 
 # Business Rules
 *Flat fee of $5 for each delivery 
@@ -29,4 +29,4 @@ The purpose of this project is to design and create an application similar to th
 *We will only deliver on campus at an approved derivery 
 
 # EERD
-[Image of EERD](https://github.com/cvail2/3160group21/blob/master/Untitled%20Diagram.png)
+![Image of EERD](https://github.com/cvail2/3160group21/blob/master/Untitled%20Diagram.png)
