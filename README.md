@@ -21,11 +21,17 @@ The purpose of this project is to design and create an application similar to th
 
 # Business Rules
 *Flat fee of $5 for each delivery 
+
 *A person can orders food one to many times
+
 *Each order is from one and only one restaurant 
+
 *Food providers must me approved to be included in the database
+
 *Data will be used to gain insight on the nutrition and eating habits of campus
+
 *Drivers must be approved students
+
 *We will only deliver on campus at an approved derivery 
 
 # EERD
