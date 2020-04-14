@@ -34,6 +34,8 @@ The purpose of this project is to design and create an application similar to th
 
 # MySQL Dump
 
+  https://github.com/cvail2/3160group21/blob/master/createSCRP.sql
+
 # Data Dictionary
 
   https://github.com/cvail2/3160group21/blob/master/datdDict.pdf
