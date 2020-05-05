@@ -8,10 +8,9 @@ Members: Carter Gray, Connor Vail, Zachary Hamilton
 * Business Rules
 * EERD
 * MySQL Queries
-* Trigger
-* Stored Procedure
 * Description of Future Work
 * MySQL Dump
+* Indexes
 * Data Dictionary
 
 # Introduction
@@ -37,7 +36,11 @@ The purpose of this project is to design and create an application similar to th
   https://github.com/cvail2/3160group21/blob/master/createSCRP.sql
   
   Final Dump
-  https://github.com/cvail2/3160group21/blob/master/FinalDump.zip
+  https://github.com/cvail2/3160group21/blob/master/FinalDumpy.zip
+
+# Indexes
+
+ We had one index we thought was necessary and it was names as a reference to person because it is our largest table
 
 # Data Dictionary
 
