@@ -12,6 +12,7 @@ Members: Carter Gray, Connor Vail, Zachary Hamilton
 * MySQL Dump
 * Indexes
 * Data Dictionary
+* YouTube Video
 
 # Introduction
 The purpose of this project is to design and create an application similar to that of GrubHub or Postmates specifically for campus use. The reason behind this is having random delivery drivers going on and off campus who often have no link to campus could be a security issue. This means that all drivers for this service will be previously vetted in order to maintain the prior rule. Doing food deliveries in this way will overall make campus safer for students, faculty and staff.
