@@ -12,6 +12,7 @@ Members: Carter Gray, Connor Vail, Zachary Hamilton
 * MySQL Dump
 * Indexes
 * Data Dictionary
+* PowerPoint
 * YouTube Video
 
 # Introduction
@@ -46,7 +47,11 @@ The purpose of this project is to design and create an application similar to th
 # Data Dictionary
 
   https://github.com/cvail2/3160group21/blob/master/datdDict.pdf
-  
+
+# PowerPoint
+
+  https://github.com/cvail2/3160group21/blob/master/3160.pptx
+
 # YouTube Link
 
 
